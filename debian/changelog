@@ -1,0 +1,5 @@
+php-quickform (3.3.5.1-1) unstable; urgency=medium
+
+  * Initial upload (Closes: #nnn)
+
+ -- Sébastien Delafond <seb@debian.org>  Tue, 20 Nov 2018 13:52:50 +0100
